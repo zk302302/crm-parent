@@ -1,2 +1,2 @@
 # crm-parent
-a cam-parent project
+a crm-parent project
